@@ -1,0 +1,2 @@
+first line of writing to a file.
+another line of text
